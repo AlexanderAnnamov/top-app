@@ -19,7 +19,7 @@ export default function Home():JSX.Element {
             <Image
               src="/vercel.svg"
               alt="Vercel Logo"
-              className={styles.vercelLogo}
+              className={styles.vercellogo}
               width={100}
               height={24}
               priority
